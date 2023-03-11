@@ -1,6 +1,6 @@
 {
-  "name": "wild-camping",
   "homepage": "http://Suha523.github.io/Campsite-Landing-Page-React",
+  "name": "wild-camping",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -46,6 +46,7 @@
     ]
   },
   "devDependencies": {
-    "@iconify/react": "^4.1.0"
+    "@iconify/react": "^4.1.0",
+    "gh-pages": "^5.0.0"
   }
 }
