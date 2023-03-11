@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Campsite-Landing-Page-React/static/css/main.d36d2983.css",
+    "main.js": "/Campsite-Landing-Page-React/static/js/main.68ef27ba.js",
+    "static/js/787.ec499f51.chunk.js": "/Campsite-Landing-Page-React/static/js/787.ec499f51.chunk.js",
+    "static/media/biking.jpg": "/Campsite-Landing-Page-React/static/media/biking.0d9c4c167777f36674b3.jpg",
+    "static/media/gallery_image7.jpg": "/Campsite-Landing-Page-React/static/media/gallery_image7.e6c133aa4c78888db130.jpg",
+    "static/media/header_original.jpg": "/Campsite-Landing-Page-React/static/media/header_original.79bf9547099b41d0864b.jpg",
+    "static/media/gallery_image8.jpg": "/Campsite-Landing-Page-React/static/media/gallery_image8.352fa0d105d724bd798a.jpg",
+    "static/media/hiking.jpg": "/Campsite-Landing-Page-React/static/media/hiking.44e25b2a74f1dc52827b.jpg",
+    "static/media/rafting.jpg": "/Campsite-Landing-Page-React/static/media/rafting.856817cd1a1d67050256.jpg",
+    "static/media/gallery_image6.jpg": "/Campsite-Landing-Page-React/static/media/gallery_image6.b70ae49ab3f278b6678a.jpg",
+    "static/media/gallery_image3.jpg": "/Campsite-Landing-Page-React/static/media/gallery_image3.2fafa06fdf5e8017675f.jpg",
+    "static/media/gallery_image5.jpg": "/Campsite-Landing-Page-React/static/media/gallery_image5.0ab3a0eee80881810e62.jpg",
+    "static/media/gallery_image2.jpg": "/Campsite-Landing-Page-React/static/media/gallery_image2.d637307fa0754e9fce55.jpg",
+    "static/media/gallery_image1.jpg": "/Campsite-Landing-Page-React/static/media/gallery_image1.f452ced41e289e9c3967.jpg",
+    "static/media/gallery_image4.jpg": "/Campsite-Landing-Page-React/static/media/gallery_image4.5f9f7d0b7b83495b8ecc.jpg",
+    "static/media/contact_us_section_background.jpg": "/Campsite-Landing-Page-React/static/media/contact_us_section_background.52dcf7d08f16d8d7011d.jpg",
+    "index.html": "/Campsite-Landing-Page-React/index.html",
+    "main.d36d2983.css.map": "/Campsite-Landing-Page-React/static/css/main.d36d2983.css.map",
+    "main.68ef27ba.js.map": "/Campsite-Landing-Page-React/static/js/main.68ef27ba.js.map",
+    "787.ec499f51.chunk.js.map": "/Campsite-Landing-Page-React/static/js/787.ec499f51.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d36d2983.css",
+    "static/js/main.68ef27ba.js"
+  ]
+}
