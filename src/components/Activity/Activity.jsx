@@ -43,6 +43,7 @@ function Activity(props) {
               </div>
             </div>
           ) : (
+            
             <div className='description mt-5'>{activity.description}</div>
           )}
         </Col>
