@@ -1,0 +1,52 @@
+.activity-image {
+    width: 400px;
+    height: 200px;
+    position: relative; 
+}
+
+.activity-image img{
+    box-shadow: 15px 15px #2e4f4f;
+}
+
+.activity-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 134%;
+    background-color: black;
+    opacity: 0;
+}
+
+.activity-image:hover .activity-overlay{
+   background-color: rgba(0, 0, 0, 0.4);
+   opacity: 1;
+   animation: overlay-animation ease-in-out both;
+   animation-duration: 0.7s;
+   width: 100%;
+}
+
+@keyframes overlay-animation {
+    from {
+      width: 0;
+    }
+    
+    to {
+        width: 100%;
+      }
+}
+
+@media screen and (max-width: 480px) and (min-width: 320px) {
+    .activity-image {
+        width: 200px;
+        height: 100px;
+    }
+}
+
+@media screen and (max-width: 900px) and (min-width: 481px) {
+    .activity-image {
+        width: 300px;
+        height: 150px;
+    }
+}
+
+  
