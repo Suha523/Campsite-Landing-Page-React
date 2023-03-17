@@ -6,7 +6,7 @@ import { Icon } from "@iconify/react";
 
 function Contact() {
   return (
-    <div className='contact'>
+    <div className='contact' id="contact-section">
       <div className='container rounded'>
         <div className='contact-details rounded text-start'>
           <h2>Contact us</h2>

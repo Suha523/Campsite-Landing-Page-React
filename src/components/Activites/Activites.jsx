@@ -5,7 +5,7 @@ import "./Activites.css";
 function Activites(props) {
   let activites = props.activites;
   return (
-    <div className='activites mt-5 p-3'>
+    <div className='activites mt-5 p-3' id="activites-section">
         <h2 className="mb-5">What activites do you want to try? </h2>
       <div className='container'>
         {activites.map((a) => (

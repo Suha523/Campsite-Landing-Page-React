@@ -3,7 +3,7 @@ import "./Header.css";
 
 function Header() {
   return (
-    <div className='header'>
+    <div className='header' id="home-section">
       <div className='image'></div>
       <div className='w-100 h-100 overlay d-flex justify-content-start align-items-center text-white'>
         <div>

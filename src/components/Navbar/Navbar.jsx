@@ -6,6 +6,7 @@ import {
   Nav,
   NavItem,
   NavbarBrand,
+  NavLink,
 } from "reactstrap";
 import "./Navbar.css";
 
@@ -21,12 +22,11 @@ function NavBar() {
       <NavbarToggler onClick={toggle} />
       <Collapse isOpen={isOpen} navbar>
         <Nav className='ms-auto me-5' navbar>
-          <NavItem className='me-2 mt-1'>Home</NavItem>
-          <NavItem className='me-2 mt-1'>Activites</NavItem>
-          <NavItem className='me-2 mt-1'>Gallery</NavItem>
-          <NavItem className='me-2 mt-1'>Contact</NavItem>
+          <NavItem className='me-2 mt-1'><NavLink href="#home-section">Home</NavLink></NavItem>
+          <NavItem className='me-2 mt-1'><NavLink href="#activites-section">Activites</NavLink></NavItem>
+          <NavItem className='me-2 mt-1'><NavLink href="#gallery-section">Gallery</NavLink></NavItem>
+          <NavItem className='me-2 mt-1'><NavLink href="#contact-section">Contact</NavLink></NavItem>
           <NavItem className='me-2'>
-            {/* <FontAwesomeIcon icon='fa-solid fa-calendar' /> */}
             <button className='btn btn-outline-dark'>Reserve Now</button>
           </NavItem>
         </Nav>

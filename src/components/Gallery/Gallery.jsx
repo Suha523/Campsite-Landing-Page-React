@@ -6,7 +6,7 @@ function Gallery(props) {
   let images = props.images;
 
   return (
-    <div className='gallery p-5'>
+    <div className='gallery p-5' id="gallery-section">
       <div className='container bg-dark-green text-light-blue p-5 rounded'>
         <h2 className="mb-5">Gallery</h2>
         <Carousel className="custom-carousel"
