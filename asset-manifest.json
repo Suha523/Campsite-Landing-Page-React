@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Campsite-Landing-Page-React/static/css/main.a6baf66f.css",
-    "main.js": "/Campsite-Landing-Page-React/static/js/main.68ef27ba.js",
+    "main.js": "/Campsite-Landing-Page-React/static/js/main.4dfae840.js",
     "static/js/787.ec499f51.chunk.js": "/Campsite-Landing-Page-React/static/js/787.ec499f51.chunk.js",
     "static/media/biking.jpg": "/Campsite-Landing-Page-React/static/media/biking.0d9c4c167777f36674b3.jpg",
     "static/media/gallery_image7.jpg": "/Campsite-Landing-Page-React/static/media/gallery_image7.e6c133aa4c78888db130.jpg",
@@ -18,11 +18,11 @@
     "static/media/contact_us_section_background.jpg": "/Campsite-Landing-Page-React/static/media/contact_us_section_background.52dcf7d08f16d8d7011d.jpg",
     "index.html": "/Campsite-Landing-Page-React/index.html",
     "main.a6baf66f.css.map": "/Campsite-Landing-Page-React/static/css/main.a6baf66f.css.map",
-    "main.68ef27ba.js.map": "/Campsite-Landing-Page-React/static/js/main.68ef27ba.js.map",
+    "main.4dfae840.js.map": "/Campsite-Landing-Page-React/static/js/main.4dfae840.js.map",
     "787.ec499f51.chunk.js.map": "/Campsite-Landing-Page-React/static/js/787.ec499f51.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a6baf66f.css",
-    "static/js/main.68ef27ba.js"
+    "static/js/main.4dfae840.js"
   ]
 }
